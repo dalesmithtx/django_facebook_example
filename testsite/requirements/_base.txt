@@ -1,0 +1,12 @@
+# https://www.djangoproject.com/download/1.5c1/tarball/
+Django==1.4.3
+Pillow==1.7.8
+Pygments==1.6
+South==0.7.6
+bpython==0.12
+coverage==3.6
+django-braces==0.2.1
+django-discover-runner==0.2.2
+django-facebook==4.3.1
+django-model-utils==1.1.0
+wsgiref==0.1.2
